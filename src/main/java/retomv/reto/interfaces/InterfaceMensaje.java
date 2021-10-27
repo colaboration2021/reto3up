@@ -9,7 +9,7 @@ import retomv.reto.modelo.Mensaje;
 
 /**
  *
- * @author Itsumi
+ * @author Jair
  */
 public interface InterfaceMensaje extends CrudRepository<Mensaje, Integer>{
     

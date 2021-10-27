@@ -9,7 +9,7 @@ import retomv.reto.modelo.Cliente;
 
 /**
  *
- * @author Itsumi
+ * @author Jair
  */
 public interface InterfaceCliente extends CrudRepository<Cliente, Integer> {
     

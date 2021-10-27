@@ -13,7 +13,7 @@ import retomv.reto.modelo.Reservacion;
 
 /**
  *
- * @author Itsumi
+ * @author Jair
  */
 @Repository
 public class RepositorioReservacion{

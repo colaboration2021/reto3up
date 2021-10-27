@@ -9,7 +9,7 @@ import retomv.reto.modelo.Auditorio;
 
 /**
  *
- * @author Itsumi
+ * @author Jair
  */
 public interface InterfaceAuditorio extends CrudRepository<Auditorio, Integer> {
     

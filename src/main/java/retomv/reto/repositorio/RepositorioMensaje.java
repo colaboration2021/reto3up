@@ -13,7 +13,7 @@ import retomv.reto.modelo.Mensaje;
 
 /**
  *
- * @author Itsumi
+ * @author Jair
  */
 @Repository
 public class RepositorioMensaje {

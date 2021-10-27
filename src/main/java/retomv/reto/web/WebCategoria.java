@@ -24,7 +24,7 @@ import retomv.reto.servicios.ServiciosCategoria;
 
 /**
  *
- * @author Itsumi
+ * @author Jair
  */
 
 @RestController

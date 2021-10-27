@@ -13,7 +13,7 @@ import retomv.reto.modelo.Categoria;
 
 /**
  *
- * @author Itsumi
+ * @author Jair
  */
 @Repository
 public class RepositorioCategoria {

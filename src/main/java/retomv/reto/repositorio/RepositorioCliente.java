@@ -13,7 +13,7 @@ import retomv.reto.modelo.Cliente;
 
 /**
  *
- * @author Itsumi
+ * @author Jair
  */
 @Repository
 public class RepositorioCliente {

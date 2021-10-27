@@ -9,7 +9,7 @@ import retomv.reto.modelo.Reservacion;
 
 /**
  *
- * @author Itsumi
+ * @author Jair
  */
 public interface InterfaceReservacion extends CrudRepository<Reservacion, Integer>{
     

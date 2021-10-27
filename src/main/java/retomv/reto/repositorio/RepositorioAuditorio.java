@@ -13,7 +13,7 @@ import retomv.reto.modelo.Auditorio;
 
 /**
  *
- * @author Itsumi
+ * @author Jair
  */
 @Repository
 public class RepositorioAuditorio {

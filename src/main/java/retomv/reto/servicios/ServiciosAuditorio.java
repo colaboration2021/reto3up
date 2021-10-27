@@ -13,7 +13,7 @@ import retomv.reto.repositorio.RepositorioAuditorio;
 
 /**
  *
- * @author Itsumi
+ * @author Jair
  */
 @Service
 public class ServiciosAuditorio {

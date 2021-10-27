@@ -24,7 +24,7 @@ import retomv.reto.servicios.ServiciosReservacion;
 
 /**
  *
- * @author Itsumi
+ * @author Jair
  */
 
 @RestController

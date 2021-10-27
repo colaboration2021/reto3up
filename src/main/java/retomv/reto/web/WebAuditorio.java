@@ -24,7 +24,7 @@ import retomv.reto.servicios.ServiciosAuditorio;
 
 /**
  *
- * @author Itsumi
+ * @author Jair
  */
 
 @RestController

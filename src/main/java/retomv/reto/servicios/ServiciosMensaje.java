@@ -13,7 +13,7 @@ import retomv.reto.repositorio.RepositorioMensaje;
 
 /**
  *
- * @author Itsumi
+ * @author Jair
  */
 @Service
 public class ServiciosMensaje {

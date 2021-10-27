@@ -19,7 +19,7 @@ import javax.persistence.Table;
 
 /**
  *
- * @author Itsumi
+ * @author Jair
  */
 @Entity
 @Table(name = "audience")

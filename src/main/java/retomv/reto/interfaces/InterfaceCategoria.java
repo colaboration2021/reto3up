@@ -9,7 +9,7 @@ import retomv.reto.modelo.Categoria;
 
 /**
  *
- * @author Itsumi
+ * @author Jair
  */
 public interface InterfaceCategoria extends CrudRepository<Categoria, Integer> {
     
